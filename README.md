@@ -49,3 +49,17 @@ We create a Dashboard to display the San Francisco Airport Details. We make use 
     
     
 ![5](https://user-images.githubusercontent.com/34785563/142212734-94908fbb-eb49-4091-9c1c-0d34e4681cec.png)
+
+6) LINE
+
+
+ We create Line using Calculated Field
+ 
+    LINE- MAKELINE([From],[To])
+![6](https://user-images.githubusercontent.com/34785563/142261812-67e8cb83-4689-4d31-b4e8-f53913352738.png)
+
+    
+## SAN FRANSISCO DASHBOARD
+
+![7](https://user-images.githubusercontent.com/34785563/142261948-2a79bbac-6bfc-427a-8603-a30377a0df22.png)
+
